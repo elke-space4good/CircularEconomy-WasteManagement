@@ -1,7 +1,6 @@
 # CircularEconomy-WasteManagement
 
-Mothership Coder Mission 2: Living Environment Challenges
-https://www.space4good.com/coder-missions
+Mothership Coder Mission 2: [Living Environment Challenges](https://www.space4good.com/coder-missions/)
 
 Challenge #1: Natural plant environment & water quality
 Problem Definition
