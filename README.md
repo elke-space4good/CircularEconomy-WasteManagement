@@ -3,7 +3,7 @@
 Mothership Coder Mission 2: [Living Environment Challenges](https://www.space4good.com/coder-missions/)
 
 ## Problem Definition
-There is lack of information of the return on investment (ROI) and efficiency of circular economy practices and waste management. You can think of recycling activities, alternative waste collection methods, waste transport logistics, etc. See [circular economy indicators report](https://www.metabolic.nl/publications/circulaire-indicatoren-een-verkenning-voor-de-provincie-zuid-holland/) by Metabolic for  PZH.
+There is lack of information of the return on investment ([ROI](https://www.metabolic.nl/news/measuring-the-circular-economy-the-dutch-pioneers-leading-the-way/)) and efficiency of circular economy practices and waste management. You can think of recycling activities, alternative waste collection methods, waste transport logistics, etc. See [circular economy indicators report](https://www.metabolic.nl/publications/circulaire-indicatoren-een-verkenning-voor-de-provincie-zuid-holland/) by Metabolic for  PZH.
 
 ## Example research questions
 Can you detect the streets where people are NOT separating wastes into containers and what is their demographic (age, household type)? What new recycling activities, alternative waste collection methods, waste transport logistics can you think of to improve waste management in Zuid-Holland?
