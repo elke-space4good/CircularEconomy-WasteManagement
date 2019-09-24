@@ -33,6 +33,14 @@ Deliver a report on the findings and opportunity maps based on the results.
 - Business and industrial organizations
 - Recycling plants
 
+## Available data
+
+- [Benchmark Huishoudelijk Afval](https://www.benchmarkafval.nl/)
+- [Afvalmonitor](https://afvalmonitor.databank.nl//jive?workspace_guid=88bd5a65-fbe0-498e-a3cc-3540cb04dfc0)
+- [Afvalverwerking in Nederland 2017](https://www.verenigingafvalbedrijven.nl/public/AfvalverwerkingNL/15/bestand/Werkgroep_Afvalregistratie_Afvalverwerking_in_Nederland_gegevens_2017_november_2018.pdf)
+- [Compendium voor de Leefomgeving](https://www.clo.nl/)
+- [Waste The Hague](https://ckan.dataplatform.nl/dataset/afvalapartcontainers/resource/371f227d-4414-4e0c-939d-228747b349ce)
+
 ## Public Geodata South Holland
 
 Public geodata of the province of South Holland can be found [here](http://geoservices.zuid-holland.nl/arcgis/rest/services). 
@@ -58,5 +66,3 @@ You can find information about economy, soil, land, boundaries, environment and 
  
 This guide is for a WFS because with it the data itself (Features, the F in WFS) is shared in accordance with an open standard. In a GIS application, for example, someone who is in Argentina can use this to do an analysis and make a map.
 
-## Available data
-Coming soon
